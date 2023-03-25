@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Room Demo</string>
+    <string name="image_delete">image_delete</string>
+    <string name="edit_image">edit_image</string>
+</resources>
